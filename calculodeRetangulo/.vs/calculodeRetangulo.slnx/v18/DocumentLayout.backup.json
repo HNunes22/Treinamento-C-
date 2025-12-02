@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Treinamento C#\\calculodeRetangulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{041AC2B2-3D05-4FCF-8B53-0AA4A2DB680F}|calculodeRetangulo\\calculodeRetangulo.csproj|d:\\treinamento c#\\calculoderetangulo\\calculoderetangulo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{041AC2B2-3D05-4FCF-8B53-0AA4A2DB680F}|calculodeRetangulo\\calculodeRetangulo.csproj|solutionrelative:calculoderetangulo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041AC2B2-3D05-4FCF-8B53-0AA4A2DB680F}|calculodeRetangulo\\calculodeRetangulo.csproj|d:\\treinamento c#\\calculoderetangulo\\calculoderetangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{041AC2B2-3D05-4FCF-8B53-0AA4A2DB680F}|calculodeRetangulo\\calculodeRetangulo.csproj|solutionrelative:calculoderetangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "D:\\Treinamento C#\\calculodeRetangulo\\calculodeRetangulo\\Retangulo.cs",
+              "RelativeDocumentMoniker": "calculodeRetangulo\\Retangulo.cs",
+              "ToolTip": "D:\\Treinamento C#\\calculodeRetangulo\\calculodeRetangulo\\Retangulo.cs",
+              "RelativeToolTip": "calculodeRetangulo\\Retangulo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswBoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:31:14.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Treinamento C#\\calculodeRetangulo\\calculodeRetangulo\\Program.cs",
+              "RelativeDocumentMoniker": "calculodeRetangulo\\Program.cs",
+              "ToolTip": "D:\\Treinamento C#\\calculodeRetangulo\\calculodeRetangulo\\Program.cs",
+              "RelativeToolTip": "calculodeRetangulo\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:30:33.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

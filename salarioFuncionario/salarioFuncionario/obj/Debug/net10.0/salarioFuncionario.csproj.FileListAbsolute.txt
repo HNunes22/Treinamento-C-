@@ -1,0 +1,14 @@
+D:\Treinamento C#\salarioFuncionario\salarioFuncionario\bin\Debug\net10.0\salarioFuncionario.exe
+D:\Treinamento C#\salarioFuncionario\salarioFuncionario\bin\Debug\net10.0\salarioFuncionario.deps.json
+D:\Treinamento C#\salarioFuncionario\salarioFuncionario\bin\Debug\net10.0\salarioFuncionario.runtimeconfig.json
+D:\Treinamento C#\salarioFuncionario\salarioFuncionario\bin\Debug\net10.0\salarioFuncionario.dll
+D:\Treinamento C#\salarioFuncionario\salarioFuncionario\bin\Debug\net10.0\salarioFuncionario.pdb
+D:\Treinamento C#\salarioFuncionario\salarioFuncionario\obj\Debug\net10.0\salarioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento C#\salarioFuncionario\salarioFuncionario\obj\Debug\net10.0\salarioFuncionario.AssemblyInfoInputs.cache
+D:\Treinamento C#\salarioFuncionario\salarioFuncionario\obj\Debug\net10.0\salarioFuncionario.AssemblyInfo.cs
+D:\Treinamento C#\salarioFuncionario\salarioFuncionario\obj\Debug\net10.0\salarioFuncionario.csproj.CoreCompileInputs.cache
+D:\Treinamento C#\salarioFuncionario\salarioFuncionario\obj\Debug\net10.0\salarioFuncionario.dll
+D:\Treinamento C#\salarioFuncionario\salarioFuncionario\obj\Debug\net10.0\refint\salarioFuncionario.dll
+D:\Treinamento C#\salarioFuncionario\salarioFuncionario\obj\Debug\net10.0\salarioFuncionario.pdb
+D:\Treinamento C#\salarioFuncionario\salarioFuncionario\obj\Debug\net10.0\salarioFuncionario.genruntimeconfig.cache
+D:\Treinamento C#\salarioFuncionario\salarioFuncionario\obj\Debug\net10.0\ref\salarioFuncionario.dll

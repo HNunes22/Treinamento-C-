@@ -1,0 +1,14 @@
+D:\Treinamento C#\contaBancaria\contaBancaria\bin\Debug\net10.0\contaBancaria.exe
+D:\Treinamento C#\contaBancaria\contaBancaria\bin\Debug\net10.0\contaBancaria.deps.json
+D:\Treinamento C#\contaBancaria\contaBancaria\bin\Debug\net10.0\contaBancaria.runtimeconfig.json
+D:\Treinamento C#\contaBancaria\contaBancaria\bin\Debug\net10.0\contaBancaria.dll
+D:\Treinamento C#\contaBancaria\contaBancaria\bin\Debug\net10.0\contaBancaria.pdb
+D:\Treinamento C#\contaBancaria\contaBancaria\obj\Debug\net10.0\contaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento C#\contaBancaria\contaBancaria\obj\Debug\net10.0\contaBancaria.AssemblyInfoInputs.cache
+D:\Treinamento C#\contaBancaria\contaBancaria\obj\Debug\net10.0\contaBancaria.AssemblyInfo.cs
+D:\Treinamento C#\contaBancaria\contaBancaria\obj\Debug\net10.0\contaBancaria.csproj.CoreCompileInputs.cache
+D:\Treinamento C#\contaBancaria\contaBancaria\obj\Debug\net10.0\contaBancaria.dll
+D:\Treinamento C#\contaBancaria\contaBancaria\obj\Debug\net10.0\refint\contaBancaria.dll
+D:\Treinamento C#\contaBancaria\contaBancaria\obj\Debug\net10.0\contaBancaria.pdb
+D:\Treinamento C#\contaBancaria\contaBancaria\obj\Debug\net10.0\contaBancaria.genruntimeconfig.cache
+D:\Treinamento C#\contaBancaria\contaBancaria\obj\Debug\net10.0\ref\contaBancaria.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Treinamento C#\\comparDolares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A72C9F7E-5E44-4B74-BDCA-7A77C4B5C559}|comparDolares\\comparDolares.csproj|d:\\treinamento c#\\compardolares\\compardolares\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72C9F7E-5E44-4B74-BDCA-7A77C4B5C559}|comparDolares\\comparDolares.csproj|solutionrelative:compardolares\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72C9F7E-5E44-4B74-BDCA-7A77C4B5C559}|comparDolares\\comparDolares.csproj|d:\\treinamento c#\\compardolares\\compardolares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72C9F7E-5E44-4B74-BDCA-7A77C4B5C559}|comparDolares\\comparDolares.csproj|solutionrelative:compardolares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConversorDeMoeda.cs",
+              "DocumentMoniker": "D:\\Treinamento C#\\comparDolares\\comparDolares\\ConversorDeMoeda.cs",
+              "RelativeDocumentMoniker": "comparDolares\\ConversorDeMoeda.cs",
+              "ToolTip": "D:\\Treinamento C#\\comparDolares\\comparDolares\\ConversorDeMoeda.cs",
+              "RelativeToolTip": "comparDolares\\ConversorDeMoeda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:59:28.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Treinamento C#\\comparDolares\\comparDolares\\Program.cs",
+              "RelativeDocumentMoniker": "comparDolares\\Program.cs",
+              "ToolTip": "D:\\Treinamento C#\\comparDolares\\comparDolares\\Program.cs*",
+              "RelativeToolTip": "comparDolares\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxUAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:58:37.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

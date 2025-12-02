@@ -1,0 +1,14 @@
+D:\Treinamento C#\matrizes\matrizes\bin\Debug\net10.0\matrizes.exe
+D:\Treinamento C#\matrizes\matrizes\bin\Debug\net10.0\matrizes.deps.json
+D:\Treinamento C#\matrizes\matrizes\bin\Debug\net10.0\matrizes.runtimeconfig.json
+D:\Treinamento C#\matrizes\matrizes\bin\Debug\net10.0\matrizes.dll
+D:\Treinamento C#\matrizes\matrizes\bin\Debug\net10.0\matrizes.pdb
+D:\Treinamento C#\matrizes\matrizes\obj\Debug\net10.0\matrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento C#\matrizes\matrizes\obj\Debug\net10.0\matrizes.AssemblyInfoInputs.cache
+D:\Treinamento C#\matrizes\matrizes\obj\Debug\net10.0\matrizes.AssemblyInfo.cs
+D:\Treinamento C#\matrizes\matrizes\obj\Debug\net10.0\matrizes.csproj.CoreCompileInputs.cache
+D:\Treinamento C#\matrizes\matrizes\obj\Debug\net10.0\matrizes.dll
+D:\Treinamento C#\matrizes\matrizes\obj\Debug\net10.0\refint\matrizes.dll
+D:\Treinamento C#\matrizes\matrizes\obj\Debug\net10.0\matrizes.pdb
+D:\Treinamento C#\matrizes\matrizes\obj\Debug\net10.0\matrizes.genruntimeconfig.cache
+D:\Treinamento C#\matrizes\matrizes\obj\Debug\net10.0\ref\matrizes.dll

@@ -1,0 +1,14 @@
+D:\Treinamento C#\notaAlunos\notaAlunos\bin\Debug\net10.0\notaAlunos.exe
+D:\Treinamento C#\notaAlunos\notaAlunos\bin\Debug\net10.0\notaAlunos.deps.json
+D:\Treinamento C#\notaAlunos\notaAlunos\bin\Debug\net10.0\notaAlunos.runtimeconfig.json
+D:\Treinamento C#\notaAlunos\notaAlunos\bin\Debug\net10.0\notaAlunos.dll
+D:\Treinamento C#\notaAlunos\notaAlunos\bin\Debug\net10.0\notaAlunos.pdb
+D:\Treinamento C#\notaAlunos\notaAlunos\obj\Debug\net10.0\notaAlunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento C#\notaAlunos\notaAlunos\obj\Debug\net10.0\notaAlunos.AssemblyInfoInputs.cache
+D:\Treinamento C#\notaAlunos\notaAlunos\obj\Debug\net10.0\notaAlunos.AssemblyInfo.cs
+D:\Treinamento C#\notaAlunos\notaAlunos\obj\Debug\net10.0\notaAlunos.csproj.CoreCompileInputs.cache
+D:\Treinamento C#\notaAlunos\notaAlunos\obj\Debug\net10.0\notaAlunos.dll
+D:\Treinamento C#\notaAlunos\notaAlunos\obj\Debug\net10.0\refint\notaAlunos.dll
+D:\Treinamento C#\notaAlunos\notaAlunos\obj\Debug\net10.0\notaAlunos.pdb
+D:\Treinamento C#\notaAlunos\notaAlunos\obj\Debug\net10.0\notaAlunos.genruntimeconfig.cache
+D:\Treinamento C#\notaAlunos\notaAlunos\obj\Debug\net10.0\ref\notaAlunos.dll

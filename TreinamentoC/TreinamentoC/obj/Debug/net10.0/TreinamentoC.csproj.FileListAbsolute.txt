@@ -1,0 +1,14 @@
+D:\Treinamento C#\TreinamentoC\TreinamentoC\bin\Debug\net10.0\TreinamentoC.exe
+D:\Treinamento C#\TreinamentoC\TreinamentoC\bin\Debug\net10.0\TreinamentoC.deps.json
+D:\Treinamento C#\TreinamentoC\TreinamentoC\bin\Debug\net10.0\TreinamentoC.runtimeconfig.json
+D:\Treinamento C#\TreinamentoC\TreinamentoC\bin\Debug\net10.0\TreinamentoC.dll
+D:\Treinamento C#\TreinamentoC\TreinamentoC\bin\Debug\net10.0\TreinamentoC.pdb
+D:\Treinamento C#\TreinamentoC\TreinamentoC\obj\Debug\net10.0\TreinamentoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento C#\TreinamentoC\TreinamentoC\obj\Debug\net10.0\TreinamentoC.AssemblyInfoInputs.cache
+D:\Treinamento C#\TreinamentoC\TreinamentoC\obj\Debug\net10.0\TreinamentoC.AssemblyInfo.cs
+D:\Treinamento C#\TreinamentoC\TreinamentoC\obj\Debug\net10.0\TreinamentoC.csproj.CoreCompileInputs.cache
+D:\Treinamento C#\TreinamentoC\TreinamentoC\obj\Debug\net10.0\TreinamentoC.dll
+D:\Treinamento C#\TreinamentoC\TreinamentoC\obj\Debug\net10.0\refint\TreinamentoC.dll
+D:\Treinamento C#\TreinamentoC\TreinamentoC\obj\Debug\net10.0\TreinamentoC.pdb
+D:\Treinamento C#\TreinamentoC\TreinamentoC\obj\Debug\net10.0\TreinamentoC.genruntimeconfig.cache
+D:\Treinamento C#\TreinamentoC\TreinamentoC\obj\Debug\net10.0\ref\TreinamentoC.dll

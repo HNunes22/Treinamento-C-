@@ -1,0 +1,14 @@
+D:\Treinamento C#\dadosFuncionarios\dadosFuncionarios\bin\Debug\net10.0\dadosFuncionarios.exe
+D:\Treinamento C#\dadosFuncionarios\dadosFuncionarios\bin\Debug\net10.0\dadosFuncionarios.deps.json
+D:\Treinamento C#\dadosFuncionarios\dadosFuncionarios\bin\Debug\net10.0\dadosFuncionarios.runtimeconfig.json
+D:\Treinamento C#\dadosFuncionarios\dadosFuncionarios\bin\Debug\net10.0\dadosFuncionarios.dll
+D:\Treinamento C#\dadosFuncionarios\dadosFuncionarios\bin\Debug\net10.0\dadosFuncionarios.pdb
+D:\Treinamento C#\dadosFuncionarios\dadosFuncionarios\obj\Debug\net10.0\dadosFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento C#\dadosFuncionarios\dadosFuncionarios\obj\Debug\net10.0\dadosFuncionarios.AssemblyInfoInputs.cache
+D:\Treinamento C#\dadosFuncionarios\dadosFuncionarios\obj\Debug\net10.0\dadosFuncionarios.AssemblyInfo.cs
+D:\Treinamento C#\dadosFuncionarios\dadosFuncionarios\obj\Debug\net10.0\dadosFuncionarios.csproj.CoreCompileInputs.cache
+D:\Treinamento C#\dadosFuncionarios\dadosFuncionarios\obj\Debug\net10.0\dadosFuncionarios.dll
+D:\Treinamento C#\dadosFuncionarios\dadosFuncionarios\obj\Debug\net10.0\refint\dadosFuncionarios.dll
+D:\Treinamento C#\dadosFuncionarios\dadosFuncionarios\obj\Debug\net10.0\dadosFuncionarios.pdb
+D:\Treinamento C#\dadosFuncionarios\dadosFuncionarios\obj\Debug\net10.0\dadosFuncionarios.genruntimeconfig.cache
+D:\Treinamento C#\dadosFuncionarios\dadosFuncionarios\obj\Debug\net10.0\ref\dadosFuncionarios.dll

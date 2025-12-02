@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Treinamento C#\\notaAlunos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{425C605F-ABEA-4FE7-B2B0-302278F33D7F}|notaAlunos\\notaAlunos.csproj|d:\\treinamento c#\\notaalunos\\notaalunos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425C605F-ABEA-4FE7-B2B0-302278F33D7F}|notaAlunos\\notaAlunos.csproj|solutionrelative:notaalunos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425C605F-ABEA-4FE7-B2B0-302278F33D7F}|notaAlunos\\notaAlunos.csproj|d:\\treinamento c#\\notaalunos\\notaalunos\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425C605F-ABEA-4FE7-B2B0-302278F33D7F}|notaAlunos\\notaAlunos.csproj|solutionrelative:notaalunos\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "D:\\Treinamento C#\\notaAlunos\\notaAlunos\\Aluno.cs",
+              "RelativeDocumentMoniker": "notaAlunos\\Aluno.cs",
+              "ToolTip": "D:\\Treinamento C#\\notaAlunos\\notaAlunos\\Aluno.cs",
+              "RelativeToolTip": "notaAlunos\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:09:10.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Treinamento C#\\notaAlunos\\notaAlunos\\Program.cs",
+              "RelativeDocumentMoniker": "notaAlunos\\Program.cs",
+              "ToolTip": "D:\\Treinamento C#\\notaAlunos\\notaAlunos\\Program.cs",
+              "RelativeToolTip": "notaAlunos\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:08:21.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Treinamento C#\\ClasseProduto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B83E9EFC-8360-290C-D292-936E179B29B9}|ClasseProduto\\ClasseProduto.csproj|d:\\treinamento c#\\classeproduto\\classeproduto\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83E9EFC-8360-290C-D292-936E179B29B9}|ClasseProduto\\ClasseProduto.csproj|solutionrelative:classeproduto\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83E9EFC-8360-290C-D292-936E179B29B9}|ClasseProduto\\ClasseProduto.csproj|d:\\treinamento c#\\classeproduto\\classeproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83E9EFC-8360-290C-D292-936E179B29B9}|ClasseProduto\\ClasseProduto.csproj|solutionrelative:classeproduto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\Treinamento C#\\ClasseProduto\\ClasseProduto\\Produto.cs",
+              "RelativeDocumentMoniker": "ClasseProduto\\Produto.cs",
+              "ToolTip": "D:\\Treinamento C#\\ClasseProduto\\ClasseProduto\\Produto.cs",
+              "RelativeToolTip": "ClasseProduto\\Produto.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:00:46.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Treinamento C#\\ClasseProduto\\ClasseProduto\\Program.cs",
+              "RelativeDocumentMoniker": "ClasseProduto\\Program.cs",
+              "ToolTip": "D:\\Treinamento C#\\ClasseProduto\\ClasseProduto\\Program.cs",
+              "RelativeToolTip": "ClasseProduto\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:50:19.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Treinamento C#\calculodeRetangulo\calculodeRetangulo\bin\Debug\net10.0\calculodeRetangulo.exe
+D:\Treinamento C#\calculodeRetangulo\calculodeRetangulo\bin\Debug\net10.0\calculodeRetangulo.deps.json
+D:\Treinamento C#\calculodeRetangulo\calculodeRetangulo\bin\Debug\net10.0\calculodeRetangulo.runtimeconfig.json
+D:\Treinamento C#\calculodeRetangulo\calculodeRetangulo\bin\Debug\net10.0\calculodeRetangulo.dll
+D:\Treinamento C#\calculodeRetangulo\calculodeRetangulo\bin\Debug\net10.0\calculodeRetangulo.pdb
+D:\Treinamento C#\calculodeRetangulo\calculodeRetangulo\obj\Debug\net10.0\calculodeRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento C#\calculodeRetangulo\calculodeRetangulo\obj\Debug\net10.0\calculodeRetangulo.AssemblyInfoInputs.cache
+D:\Treinamento C#\calculodeRetangulo\calculodeRetangulo\obj\Debug\net10.0\calculodeRetangulo.AssemblyInfo.cs
+D:\Treinamento C#\calculodeRetangulo\calculodeRetangulo\obj\Debug\net10.0\calculodeRetangulo.csproj.CoreCompileInputs.cache
+D:\Treinamento C#\calculodeRetangulo\calculodeRetangulo\obj\Debug\net10.0\calculodeRetangulo.dll
+D:\Treinamento C#\calculodeRetangulo\calculodeRetangulo\obj\Debug\net10.0\refint\calculodeRetangulo.dll
+D:\Treinamento C#\calculodeRetangulo\calculodeRetangulo\obj\Debug\net10.0\calculodeRetangulo.pdb
+D:\Treinamento C#\calculodeRetangulo\calculodeRetangulo\obj\Debug\net10.0\calculodeRetangulo.genruntimeconfig.cache
+D:\Treinamento C#\calculodeRetangulo\calculodeRetangulo\obj\Debug\net10.0\ref\calculodeRetangulo.dll

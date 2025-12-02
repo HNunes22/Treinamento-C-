@@ -1,0 +1,14 @@
+D:\Treinamento C#\timeSpan\timeSpan\bin\Debug\net10.0\timeSpan.exe
+D:\Treinamento C#\timeSpan\timeSpan\bin\Debug\net10.0\timeSpan.deps.json
+D:\Treinamento C#\timeSpan\timeSpan\bin\Debug\net10.0\timeSpan.runtimeconfig.json
+D:\Treinamento C#\timeSpan\timeSpan\bin\Debug\net10.0\timeSpan.dll
+D:\Treinamento C#\timeSpan\timeSpan\bin\Debug\net10.0\timeSpan.pdb
+D:\Treinamento C#\timeSpan\timeSpan\obj\Debug\net10.0\timeSpan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento C#\timeSpan\timeSpan\obj\Debug\net10.0\timeSpan.AssemblyInfoInputs.cache
+D:\Treinamento C#\timeSpan\timeSpan\obj\Debug\net10.0\timeSpan.AssemblyInfo.cs
+D:\Treinamento C#\timeSpan\timeSpan\obj\Debug\net10.0\timeSpan.csproj.CoreCompileInputs.cache
+D:\Treinamento C#\timeSpan\timeSpan\obj\Debug\net10.0\timeSpan.dll
+D:\Treinamento C#\timeSpan\timeSpan\obj\Debug\net10.0\refint\timeSpan.dll
+D:\Treinamento C#\timeSpan\timeSpan\obj\Debug\net10.0\timeSpan.pdb
+D:\Treinamento C#\timeSpan\timeSpan\obj\Debug\net10.0\timeSpan.genruntimeconfig.cache
+D:\Treinamento C#\timeSpan\timeSpan\obj\Debug\net10.0\ref\timeSpan.dll

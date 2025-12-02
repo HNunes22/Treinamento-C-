@@ -1,0 +1,14 @@
+D:\Treinamento C#\exercicioMatriz\exercicioMatriz\bin\Debug\net10.0\exercicioMatriz.exe
+D:\Treinamento C#\exercicioMatriz\exercicioMatriz\bin\Debug\net10.0\exercicioMatriz.deps.json
+D:\Treinamento C#\exercicioMatriz\exercicioMatriz\bin\Debug\net10.0\exercicioMatriz.runtimeconfig.json
+D:\Treinamento C#\exercicioMatriz\exercicioMatriz\bin\Debug\net10.0\exercicioMatriz.dll
+D:\Treinamento C#\exercicioMatriz\exercicioMatriz\bin\Debug\net10.0\exercicioMatriz.pdb
+D:\Treinamento C#\exercicioMatriz\exercicioMatriz\obj\Debug\net10.0\exercicioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento C#\exercicioMatriz\exercicioMatriz\obj\Debug\net10.0\exercicioMatriz.AssemblyInfoInputs.cache
+D:\Treinamento C#\exercicioMatriz\exercicioMatriz\obj\Debug\net10.0\exercicioMatriz.AssemblyInfo.cs
+D:\Treinamento C#\exercicioMatriz\exercicioMatriz\obj\Debug\net10.0\exercicioMatriz.csproj.CoreCompileInputs.cache
+D:\Treinamento C#\exercicioMatriz\exercicioMatriz\obj\Debug\net10.0\exercicioMatriz.dll
+D:\Treinamento C#\exercicioMatriz\exercicioMatriz\obj\Debug\net10.0\refint\exercicioMatriz.dll
+D:\Treinamento C#\exercicioMatriz\exercicioMatriz\obj\Debug\net10.0\exercicioMatriz.pdb
+D:\Treinamento C#\exercicioMatriz\exercicioMatriz\obj\Debug\net10.0\exercicioMatriz.genruntimeconfig.cache
+D:\Treinamento C#\exercicioMatriz\exercicioMatriz\obj\Debug\net10.0\ref\exercicioMatriz.dll

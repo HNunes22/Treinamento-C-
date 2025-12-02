@@ -1,0 +1,14 @@
+D:\Treinamento C#\membrosStaticos\membrosStaticos\bin\Debug\net10.0\membrosStaticos.exe
+D:\Treinamento C#\membrosStaticos\membrosStaticos\bin\Debug\net10.0\membrosStaticos.deps.json
+D:\Treinamento C#\membrosStaticos\membrosStaticos\bin\Debug\net10.0\membrosStaticos.runtimeconfig.json
+D:\Treinamento C#\membrosStaticos\membrosStaticos\bin\Debug\net10.0\membrosStaticos.dll
+D:\Treinamento C#\membrosStaticos\membrosStaticos\bin\Debug\net10.0\membrosStaticos.pdb
+D:\Treinamento C#\membrosStaticos\membrosStaticos\obj\Debug\net10.0\membrosStaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento C#\membrosStaticos\membrosStaticos\obj\Debug\net10.0\membrosStaticos.AssemblyInfoInputs.cache
+D:\Treinamento C#\membrosStaticos\membrosStaticos\obj\Debug\net10.0\membrosStaticos.AssemblyInfo.cs
+D:\Treinamento C#\membrosStaticos\membrosStaticos\obj\Debug\net10.0\membrosStaticos.csproj.CoreCompileInputs.cache
+D:\Treinamento C#\membrosStaticos\membrosStaticos\obj\Debug\net10.0\membrosStaticos.dll
+D:\Treinamento C#\membrosStaticos\membrosStaticos\obj\Debug\net10.0\refint\membrosStaticos.dll
+D:\Treinamento C#\membrosStaticos\membrosStaticos\obj\Debug\net10.0\membrosStaticos.pdb
+D:\Treinamento C#\membrosStaticos\membrosStaticos\obj\Debug\net10.0\membrosStaticos.genruntimeconfig.cache
+D:\Treinamento C#\membrosStaticos\membrosStaticos\obj\Debug\net10.0\ref\membrosStaticos.dll

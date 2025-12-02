@@ -1,0 +1,14 @@
+D:\Treinamento C#\ProvaTest\bin\Debug\net10.0\ProvaTest.exe
+D:\Treinamento C#\ProvaTest\bin\Debug\net10.0\ProvaTest.deps.json
+D:\Treinamento C#\ProvaTest\bin\Debug\net10.0\ProvaTest.runtimeconfig.json
+D:\Treinamento C#\ProvaTest\bin\Debug\net10.0\ProvaTest.dll
+D:\Treinamento C#\ProvaTest\bin\Debug\net10.0\ProvaTest.pdb
+D:\Treinamento C#\ProvaTest\obj\Debug\net10.0\ProvaTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento C#\ProvaTest\obj\Debug\net10.0\ProvaTest.AssemblyInfoInputs.cache
+D:\Treinamento C#\ProvaTest\obj\Debug\net10.0\ProvaTest.AssemblyInfo.cs
+D:\Treinamento C#\ProvaTest\obj\Debug\net10.0\ProvaTest.csproj.CoreCompileInputs.cache
+D:\Treinamento C#\ProvaTest\obj\Debug\net10.0\ProvaTest.dll
+D:\Treinamento C#\ProvaTest\obj\Debug\net10.0\refint\ProvaTest.dll
+D:\Treinamento C#\ProvaTest\obj\Debug\net10.0\ProvaTest.pdb
+D:\Treinamento C#\ProvaTest\obj\Debug\net10.0\ProvaTest.genruntimeconfig.cache
+D:\Treinamento C#\ProvaTest\obj\Debug\net10.0\ref\ProvaTest.dll

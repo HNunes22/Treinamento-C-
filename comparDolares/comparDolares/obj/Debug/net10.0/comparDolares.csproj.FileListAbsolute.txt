@@ -1,0 +1,14 @@
+D:\Treinamento C#\comparDolares\comparDolares\bin\Debug\net10.0\comparDolares.exe
+D:\Treinamento C#\comparDolares\comparDolares\bin\Debug\net10.0\comparDolares.deps.json
+D:\Treinamento C#\comparDolares\comparDolares\bin\Debug\net10.0\comparDolares.runtimeconfig.json
+D:\Treinamento C#\comparDolares\comparDolares\bin\Debug\net10.0\comparDolares.dll
+D:\Treinamento C#\comparDolares\comparDolares\bin\Debug\net10.0\comparDolares.pdb
+D:\Treinamento C#\comparDolares\comparDolares\obj\Debug\net10.0\comparDolares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento C#\comparDolares\comparDolares\obj\Debug\net10.0\comparDolares.AssemblyInfoInputs.cache
+D:\Treinamento C#\comparDolares\comparDolares\obj\Debug\net10.0\comparDolares.AssemblyInfo.cs
+D:\Treinamento C#\comparDolares\comparDolares\obj\Debug\net10.0\comparDolares.csproj.CoreCompileInputs.cache
+D:\Treinamento C#\comparDolares\comparDolares\obj\Debug\net10.0\comparDolares.dll
+D:\Treinamento C#\comparDolares\comparDolares\obj\Debug\net10.0\refint\comparDolares.dll
+D:\Treinamento C#\comparDolares\comparDolares\obj\Debug\net10.0\comparDolares.pdb
+D:\Treinamento C#\comparDolares\comparDolares\obj\Debug\net10.0\comparDolares.genruntimeconfig.cache
+D:\Treinamento C#\comparDolares\comparDolares\obj\Debug\net10.0\ref\comparDolares.dll
