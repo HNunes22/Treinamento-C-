@@ -31,5 +31,5 @@ namespace Titulo {
 #### Lista de conclusão de projetos
 
 - [x] Inicialização do Curso (32%)
-- [] Projeto de Xadréz
-- [] Conclusão do Curso
+- [ ] Projeto de Xadréz
+- [ ] Conclusão do Curso
