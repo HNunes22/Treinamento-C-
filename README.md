@@ -13,3 +13,17 @@ Esse **repositório** foi criado para guardar atividades e aulas com a _linguage
 * C
 * Python
 * Typescript
+
+
+#### Sintaxe de inicialização do C#
+
+```C#
+
+namespace Titulo {
+    class Program {
+        static void Main(string[] args) {
+        }
+    }
+}
+
+```
