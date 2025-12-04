@@ -7,7 +7,7 @@ Esse **repositório** foi criado para guardar atividades e aulas com a _linguage
 ## Linguagens em Treinamento
 
 * C#
-* JavaScript
+* [JavaScript](https://github.com/HNunes22/TreinamentoJs)
 * HTML
 * CSS
 * C
