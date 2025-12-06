@@ -1,0 +1,15 @@
+D:\Treinamento C#\enumerate\enumerate\bin\Debug\net10.0\enumerate.exe
+D:\Treinamento C#\enumerate\enumerate\bin\Debug\net10.0\enumerate.deps.json
+D:\Treinamento C#\enumerate\enumerate\bin\Debug\net10.0\enumerate.runtimeconfig.json
+D:\Treinamento C#\enumerate\enumerate\bin\Debug\net10.0\enumerate.dll
+D:\Treinamento C#\enumerate\enumerate\bin\Debug\net10.0\enumerate.pdb
+D:\Treinamento C#\enumerate\enumerate\obj\Debug\net10.0\enumerate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento C#\enumerate\enumerate\obj\Debug\net10.0\enumerate.AssemblyInfoInputs.cache
+D:\Treinamento C#\enumerate\enumerate\obj\Debug\net10.0\enumerate.AssemblyInfo.cs
+D:\Treinamento C#\enumerate\enumerate\obj\Debug\net10.0\enumerate.csproj.CoreCompileInputs.cache
+D:\Treinamento C#\enumerate\enumerate\obj\Debug\net10.0\enumerate.sourcelink.json
+D:\Treinamento C#\enumerate\enumerate\obj\Debug\net10.0\enumerate.dll
+D:\Treinamento C#\enumerate\enumerate\obj\Debug\net10.0\refint\enumerate.dll
+D:\Treinamento C#\enumerate\enumerate\obj\Debug\net10.0\enumerate.pdb
+D:\Treinamento C#\enumerate\enumerate\obj\Debug\net10.0\enumerate.genruntimeconfig.cache
+D:\Treinamento C#\enumerate\enumerate\obj\Debug\net10.0\ref\enumerate.dll
